@@ -27,9 +27,6 @@ O objetivo é unir **lógica de programação e design** para criar uma experiê
 
 ---
 
-
----
-
 ## ⚙️ Funcionalidades
 
 ✅ Teclas que tocam sons ao clicar  
