@@ -10,7 +10,7 @@
 ---
 
 ## 🧠 Sobre o Projeto
-
+Acesse: https://devfbz.github.io/PianoHtml/ <br>
 O **Piano Virtual** foi desenvolvido como parte de um estudo de manipulação do **DOM**, **eventos de teclado**, **áudio no navegador** e **estilização com CSS Grid**.
 
 O objetivo é unir **lógica de programação e design** para criar uma experiência musical divertida e didática.
